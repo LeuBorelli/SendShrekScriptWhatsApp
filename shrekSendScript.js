@@ -23,6 +23,9 @@ async function enviarScript(scriptText){
 }
 
 enviarScript(`
+
+Olá, isso é pra você aprender a não da golpe nos outros!
+
 SHREK
 
 Written by
